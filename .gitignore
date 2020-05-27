@@ -1,0 +1,12 @@
+.git/
+*.iml
+.idea
+.DS_Store
+*.classpath
+*.project
+*.settings/*
+/**/*.classpath
+/**/*.project
+/**/*.settings/*
+target
+dependency-reduced-pom.xml
